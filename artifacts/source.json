@@ -1,0 +1,6 @@
+{
+  "upstream": "https://github.com/open-mmlab/mmdetection3d",
+  "commit": "962f093736ffe55c089bc618842a8b8567318c8c",
+  "mmcv_commit": "57c4e25e06e2d4f8a9357c84bcd24089a284dc88",
+  "local_changes_included": true
+}

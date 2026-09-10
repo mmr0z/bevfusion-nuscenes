@@ -1,0 +1,24 @@
+{
+  "repository": "mmr0z/bevfusion-nuscenes",
+  "release": "v1.0.0",
+  "files": [
+    {
+      "asset": "iter_741480.pth",
+      "path": "work_dirs/bevfusion_lidar-cam_voxel0075_second_secfpn_1xb1-6e_nus-3d-quality-ft-epoch13/iter_741480.pth",
+      "bytes": 620553135,
+      "sha256": "af84f72cac2310a088ec41cd5e03bdfd4dc5efba6e2c962d4df71665ee1395ac"
+    },
+    {
+      "asset": "epoch_13.pth",
+      "path": "work_dirs/bevfusion_lidar_voxel0075_second_secfpn_1xb5-16e_nus-3d-quality/epoch_13.pth",
+      "bytes": 152865735,
+      "sha256": "ed10c70be8adb3a0f8955da5980370abf7ddf1806f87f948843fb5ee46a9c560"
+    },
+    {
+      "asset": "swint-nuimages-pretrained.pth",
+      "path": "checkpoints/swint-nuimages-pretrained.pth",
+      "bytes": 110370759,
+      "sha256": "cc8189aa34e2d743e26b1e3d0c8d6c18768d87561d404f0f82b282c2d178810f"
+    }
+  ]
+}
